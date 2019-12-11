@@ -5,7 +5,7 @@
 ## Install
 
 ```
-npm i -g @ooyun0/owngf
+npm i -g owngf
 ```
 
 ## Usage
