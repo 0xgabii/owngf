@@ -1,5 +1,5 @@
 {
-  "name": "@ooyun0/owngf",
+  "name": "owngf",
   "version": "1.0.1",
   "main": "./dist/index.js",
   "bin": {
@@ -10,9 +10,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ooyun0/owngf.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "build": "parcel build ./index.js --target node --bundle-node-modules --experimental-scope-hoisting"
